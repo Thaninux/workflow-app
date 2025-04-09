@@ -1,5 +1,5 @@
 // calculatrice.test.js
-const { addition, soustraction, multiplication, division } = require('./calculatrice');
+const { addition, soustraction, multiplication, division } = require('./index');
 
 describe('Tests de la fonction addition', () => {
   test('addition de 1 et 2 = 3', () => {
